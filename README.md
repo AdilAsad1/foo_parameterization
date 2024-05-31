@@ -5,5 +5,5 @@ This package provides tools to calculate the Foo et al. parameterization for the
 ## Installation
 
 ```bash
-pip install foo_parameterizatio
+pip install foo_parameterization
 ```
